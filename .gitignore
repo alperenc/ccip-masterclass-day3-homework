@@ -1,0 +1,6 @@
+.deploys
+.git
+artifacts
+.prettierrc.json
+
+Empty.sol
